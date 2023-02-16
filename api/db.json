@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here is another Stream",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This should take you to root page",
+      "userId": "100536838058215866601",
+      "id": 6
+    },
+    {
+      "title": "Works",
+      "description": "forgot to update",
+      "userId": "100536838058215866601",
+      "id": 7
+    },
+    {
+      "title": "HI",
+      "description": "Created By Sahana and refactored later",
+      "id": 8
+    },
+    {
+      "title": "Remember this",
+      "description": "Keep Practicing",
+      "userId": "100536838058215866601",
+      "id": 10
+    },
+    {
+      "title": "Another test",
+      "description": "This is a test",
+      "userId": "100536838058215866601",
+      "id": 11
+    }
+  ]
+}
